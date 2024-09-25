@@ -1,32 +1,19 @@
+![El Nigromante](https://github.com/user-attachments/assets/416ad395-aacf-4857-a12f-05b8a877bded)
 
-![6](https://github.com/user-attachments/assets/5abac465-cf2b-4b25-a02f-b2df734b57d3)
+![Golem1](https://github.com/user-attachments/assets/1445fd47-bc66-4256-89c7-0bf81d5fee97)
 
-![7](https://github.com/user-attachments/assets/a2bbfc6e-2132-45d1-a24a-db9124fdd676)
+![ZapaKeyshot](https://github.com/user-attachments/assets/7282db27-b03c-4a05-8b97-65aa78a4555c)
 
-![Preset 1 54](https://github.com/user-attachments/assets/0d4dd4d0-e53c-48ff-a054-3f6c5fff6580)
+![Heal Em Up](https://github.com/user-attachments/assets/6d4f842f-3017-40a1-92bd-5feee7ea8f7f)
 
-![Preset 2 55](https://github.com/user-attachments/assets/c319ecb6-e8c3-431e-b3ed-d6c97cb6ded8)
+![Kelp ME!](https://github.com/user-attachments/assets/e20e7411-c365-4a5a-b958-26d2a8adc686)
 
-![Preset 3 56](https://github.com/user-attachments/assets/15b6761f-fc42-4149-88a2-e46251ede58d)
+![MagicandCandle](https://github.com/user-attachments/assets/7c7614d0-0699-491e-82cc-a59c43bb44b5)
 
-![Preset 4 57](https://github.com/user-attachments/assets/d9b55dab-cdaa-4b6b-994d-4f3e86e40f93)
+![Mueble](https://github.com/user-attachments/assets/32abfc25-c7d3-45c9-9871-ce05ba3964b4)
 
-![GOlem linart0 5](https://github.com/user-attachments/assets/83406568-06de-4aec-8b1a-9f2659e28074)
+![Marinus](https://github.com/user-attachments/assets/ae7afc3b-f0e3-459b-a5f4-afba832d4ea9)
 
-![8](https://github.com/user-attachments/assets/1361cc05-baaa-4cc3-8ccb-44c000cfc2c2)
+![BlueBird](https://github.com/user-attachments/assets/1f2988f2-ddc1-4bf4-9d3f-243b6b78638a)
 
-![image9](https://github.com/user-attachments/assets/741a8bce-5b6d-42d5-9f99-ce191e7df3f8)
-
-![Seminario de título Autoexploración (1)](https://github.com/user-attachments/assets/cec5df5b-4b05-47f4-b268-a4d4623e801d)
-
-![Seminario de título Autoexploración](https://github.com/user-attachments/assets/0737b719-eeab-4967-a5c8-0723644179f9)
-
-![Seminario de título Autoexploración](https://github.com/user-attachments/assets/329bf8a2-1cd1-4578-a7b3-f4817b12d1b7)
-
-![IMG_4782](https://github.com/user-attachments/assets/4194173f-0d24-4e21-b76d-01710d62b7ff)
-
-![IMG_4787](https://github.com/user-attachments/assets/307bb97c-5d6e-4c4c-a2b0-ab11505747ed)
-
-![IMG_4789](https://github.com/user-attachments/assets/fd1353de-1d9a-4c55-9d46-a6dbb0fcb9f6)
-
-
+![Dragon](https://github.com/user-attachments/assets/b9e21fa2-f770-4629-af56-276a5c643f6b)
