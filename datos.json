@@ -1,79 +1,74 @@
 [
     {
-        "nombre": "Zapatilla Alianza",
+        "nombre": "Ilustraciones",
+        "descripcion": " lorem",
         "fecha": "2022",
-        "signo": "Diseño grafico/digital",
-        "foto": "https://github.com/user-attachments/assets/5abac465-cf2b-4b25-a02f-b2df734b57d3",
-        "github": "https://github.com/mister-worldwide"
-    },
-    {
-        "nombre": "Zapatilla Horda",
-        "fecha": "2022",
-        "signo": "Diseño grafico/digital",
-        "foto": "https://github.com/user-attachments/assets/a2bbfc6e-2132-45d1-a24a-db9124fdd676",
-        "github": "https://github.com/mister-worldwide"
-    },
-    {
-        "nombre": "El nigromante",
-        "fecha": "2024",
-        "signo": "Ilustracion",
-        "foto": "https://github.com/user-attachments/assets/0737b719-eeab-4967-a5c8-0723644179f9",
-        "github": "https://github.com/mister-worldwide"
-    },
-    {
-        "nombre": "El horror",
-        "fecha": "2024",
-        "signo": "Ilustracion",
-        "foto": "https://github.com/user-attachments/assets/4194173f-0d24-4e21-b76d-01710d62b7ff",
-        "github": "https://github.com/mister-worldwide"
-    },
-    {
-        "nombre": "El amor",
-        "fecha": "2024",
-        "signo": "Ilustracion",
-        "foto": "https://github.com/user-attachments/assets/307bb97c-5d6e-4c4c-a2b0-ab11505747ed",
-        "github": "https://github.com/mister-worldwide"
-    },
-    {
-        "nombre": "El festín",
-        "fecha": "2024",
-        "signo": "Ilustracion",
-        "foto": "https://github.com/user-attachments/assets/fd1353de-1d9a-4c55-9d46-a6dbb0fcb9f6",
+        "signo": "Diseño grafico",
+        "foto": "https://github.com/user-attachments/assets/416ad395-aacf-4857-a12f-05b8a877bded",
+        "fotos": " ",
         "github": "https://github.com/mister-worldwide"
     },
     {
         "nombre": "Golem aéreo",
         "fecha": "2022",
-        "signo": "Diseño digital/Modelado 3D",
-        "foto": "https://github.com/user-attachments/assets/0d4dd4d0-e53c-48ff-a054-3f6c5fff6580",
+        "signo": "Modelado3D",
+        "foto": "https://github.com/user-attachments/assets/1445fd47-bc66-4256-89c7-0bf81d5fee97",
         "github": "https://github.com/mister-worldwide"
     },
     {
-        "nombre": "Golem aéreo 2",
-        "fecha": "2022",
-        "signo": "Diseño digital/Modelado 3D",
-        "foto": "https://github.com/user-attachments/assets/c319ecb6-e8c3-431e-b3ed-d6c97cb6ded8",
+        "nombre": "Converse Design",
+        "fecha": "2024",
+        "signo": "Modelado3D",
+        "foto": "https://github.com/user-attachments/assets/7282db27-b03c-4a05-8b97-65aa78a4555c",
         "github": "https://github.com/mister-worldwide"
     },
     {
-        "nombre": "Planimetrías Golem aéreo",
-        "fecha": "2022",
-        "signo": "Diseño digital/Modelado 3D",
-        "foto": "https://github.com/user-attachments/assets/83406568-06de-4aec-8b1a-9f2659e28074",
+        "nombre": "Heal Em Up!",
+        "fecha": "2024",
+        "signo": "Diseño grafico",
+        "foto": "https://github.com/user-attachments/assets/6d4f842f-3017-40a1-92bd-5feee7ea8f7f",
         "github": "https://github.com/mister-worldwide"
     },
     {
         "nombre": "Magic & Candle",
-        "fecha": "2023",
-        "signo": "Diseño digital",
-        "foto": "https://github.com/user-attachments/assets/cec5df5b-4b05-47f4-b268-a4d4623e801d",
+        "fecha": "2024",
+        "signo": "Modelado3D",
+        "foto": "https://github.com/user-attachments/assets/7c7614d0-0699-491e-82cc-a59c43bb44b5",
+        "github": "https://github.com/mister-worldwide"
+    },
+    {
+        "nombre": "Mobiliario",
+        "fecha": "2024",
+        "signo": "Fabricacion digital",
+        "foto": "https://github.com/user-attachments/assets/32abfc25-c7d3-45c9-9871-ce05ba3964b4",
+        "github": "https://github.com/mister-worldwide"
+    },
+    {
+        "nombre": "Marinus (Graus Nigra)",
+        "fecha": "2022",
+        "signo": "Fabricacion digital",
+        "foto": "https://github.com/user-attachments/assets/ae7afc3b-f0e3-459b-a5f4-afba832d4ea9",
+        "github": "https://github.com/mister-worldwide"
+    },
+    {
+        "nombre": "BlueBird Café",
+        "fecha": "2022",
+        "signo": "Modelado3D",
+        "foto": "https://github.com/user-attachments/assets/1f2988f2-ddc1-4bf4-9d3f-243b6b78638a",
+        "github": "https://github.com/mister-worldwide"
+    },
+    {
+        "nombre": "Cómo enfrentar a un Dragon",
+        "fecha": "2022",
+        "signo": "Diseño audiovisual",
+        "foto": "https://github.com/user-attachments/assets/b9e21fa2-f770-4629-af56-276a5c643f6b",
         "github": "https://github.com/mister-worldwide"
     },
     {
         "nombre": "Kelp Me!",
-        "fecha": "2021",
-        "signo": "Diseño de juegos/Ilustracion",
-        "foto": "https://github.com/user-attachments/assets/329bf8a2-1cd1-4578-a7b3-f4817b12d1b7",
+        "fecha": "2022",
+        "signo": "Diseño grafico",
+        "foto": "https://github.com/user-attachments/assets/e20e7411-c365-4a5a-b958-26d2a8adc686",
         "github": "https://github.com/mister-worldwide"
     }
 ]
