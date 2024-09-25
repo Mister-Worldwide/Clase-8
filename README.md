@@ -17,4 +17,8 @@
 
 ![image9](https://github.com/user-attachments/assets/741a8bce-5b6d-42d5-9f99-ce191e7df3f8)
 
+![Seminario de título Autoexploración (1)](https://github.com/user-attachments/assets/cec5df5b-4b05-47f4-b268-a4d4623e801d)
+
 ![Seminario de título Autoexploración](https://github.com/user-attachments/assets/0737b719-eeab-4967-a5c8-0723644179f9)
+
+![Seminario de título Autoexploración](https://github.com/user-attachments/assets/329bf8a2-1cd1-4578-a7b3-f4817b12d1b7)
